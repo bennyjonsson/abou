@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dir2abou": {
+      "commandName": "Project",
+      "commandLineArgs": "stage ./ExampleFiles upload DittBeslut"
+    }
+  }
+}

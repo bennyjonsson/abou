@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "stage",
+    "ApiUrl": "https://testservice.minkommun.se/api/v2/services",
+    "ApiUserName": "UIPath",
+    "ApiKey": "748f42c7-6b6d-40a2-9691-xxxxxxxxx",
+    "ServiceShortName": "BSF_10",
+    "Actor": "BSF Test"
+  },
+  {
+    "Name": "production",
+    "ApiUrl": "https://service.minkommun.se/api/v2/services",
+    "ApiUserName": "RPA01",
+    "ApiKey": "b73852d9-1f88-43ec-a057-xxxxxxxxxxx",
+    "ServiceShortName": "BSF_10",
+    "Actor": "BSF"
+  },
+  {
+    "Name": "internsbk",
+    "ApiUrl": "https://serviceintern.minkommun.se/api/v2/services",
+    "ApiUserName": "SBK_RPA",
+    "ApiKey": "8058fd94-b3d8-49c6-b08e-XXXXXXXXXX",
+    "ServiceShortName": "SBK_02",
+    "Actor": "SBK"
+  }
+]
