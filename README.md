@@ -1,5 +1,5 @@
 # Introduction
-C# API mot ABOU's etänsteplattform
+C# API mot ABOU's e-tjänsteplattform
 
 # Getting Started
 Se unitester för exempel
